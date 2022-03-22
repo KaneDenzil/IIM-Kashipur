@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IIM-Kashipur/static/css/main.185d6e79.css",
+    "main.js": "/IIM-Kashipur/static/js/main.477d0bff.js",
+    "static/js/787.43a42982.chunk.js": "/IIM-Kashipur/static/js/787.43a42982.chunk.js",
+    "static/media/banner-web.webp": "/IIM-Kashipur/static/media/banner-web.0bbaa0d90989dd09b59b.webp",
+    "static/media/banner-mob.webp": "/IIM-Kashipur/static/media/banner-mob.da16267dc0e25df90a14.webp",
+    "static/media/logo.webp": "/IIM-Kashipur/static/media/logo.c44bbac855c6827fade2.webp",
+    "static/media/foot_logo.webp": "/IIM-Kashipur/static/media/foot_logo.b334e5f8508d39d826be.webp",
+    "static/media/ph-01.webp": "/IIM-Kashipur/static/media/ph-01.1ef4e34742b5647e4f11.webp",
+    "static/media/timesTsw_logo.webp": "/IIM-Kashipur/static/media/timesTsw_logo.918f0891ca79dfe10e10.webp",
+    "static/media/ph-03.webp": "/IIM-Kashipur/static/media/ph-03.1eb707f10e4775744098.webp",
+    "static/media/ph-02.webp": "/IIM-Kashipur/static/media/ph-02.23eb050202ff887f5186.webp",
+    "static/media/timer.webp": "/IIM-Kashipur/static/media/timer.4e97e422e3fe8b68ef85.webp",
+    "static/media/03-vector.svg": "/IIM-Kashipur/static/media/03-vector.e39056c59a66f9cbb9f1d6736d1c2608.svg",
+    "static/media/01-vector.svg": "/IIM-Kashipur/static/media/01-vector.c3500d9fe92c08136c9075955d21464e.svg",
+    "index.html": "/IIM-Kashipur/index.html",
+    "main.185d6e79.css.map": "/IIM-Kashipur/static/css/main.185d6e79.css.map",
+    "main.477d0bff.js.map": "/IIM-Kashipur/static/js/main.477d0bff.js.map",
+    "787.43a42982.chunk.js.map": "/IIM-Kashipur/static/js/787.43a42982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.185d6e79.css",
+    "static/js/main.477d0bff.js"
+  ]
+}
