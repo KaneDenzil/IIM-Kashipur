@@ -11,169 +11,168 @@ const ProgContent = () =>
                 <div className="content_txt">
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>1) Introduction to Product Management & Strategy</strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>1) Introduction to Product Management & Strategy</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>5i Framework (Ideate, Innovate, Implement, Industrialise, Improve)</li>
-                                    <li>Examples of Stellar Products </li>
-                                    <li>Key Challenges</li>
+                                    <li><b>5i Framework (Ideate, Innovate, Implement, Industrialise, Improve)</b></li>
+                                    <li><b>Examples of Stellar Products </b></li>
+                                    <li><b>Key Challenges</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Theory to Product</li>
-                                    <li>Lines and Mixes</li>
-                                    <li>Case/Exercise: To be provided</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>2) Market Analysis & Research</strong></p></div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Market Segmentation, Target Market Selection, Competitive Analysis </li>
-                                    <li>Understanding the Customer: Customer Research</li>
-                                </ul>
-                            </div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Case/Exercise: To be provided</li>
+                                    <li><b>Theory to Product</b></li>
+                                    <li><b>Lines and Mixes</b></li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>3) Product Ideation and Validation</strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>2) Market Analysis & Research</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Creativity and Innovation </li>
-                                    <li>Idea Generation and Validation</li>
+                                    <li><b>Market Segmentation, Target Market Selection, Competitive Analysis</b> </li>
+                                    <li><b>Understanding the Customer: Customer Research</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Product Hypothesis, Concept Generation and Testing </li>
-                                    <li>Case/Exercise: To be provided</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>4) Customer-Centric Product Design</strong></p></div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Buyer and User Persona</li>
-                                    <li>Design Thinking</li>
-                                </ul>
-                            </div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Product Vision and Goals</li>
-                                    <li>Case/Exercise: To be provided</li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>5) Prototyping and MVPs</strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>3) Product Ideation and Validation</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Testing and Validation of MVP </li>
-                                    <li>Prototyping</li>
+                                    <li><b>Creativity and Innovation</b> </li>
+                                    <li><b>Idea Generation and Validation</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Case/Exercise: To be provided</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>6) Product Planning & Development and Product Marketing & Sales Strategies</strong></p></div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Product Engineering Strategy – Agile/Scrum/Waterfall Methodology</li>
-                                    <li>Product Roadmap, Requirements (PRDs), User Stories</li>
-                                </ul>
-                            </div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Theory to Product</li>
-                                    <li>Lines and Mixes</li>
-                                    <li>Case/Exercise: To be provided</li>
+                                    <li><b>Product Hypothesis, Concept Generation and Testing</b> </li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>7) Metrics & Analytics </strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>4) Customer-Centric Product Design</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Performance Metrics </li>
-                                    <li>Determining Success Criteria</li>
+                                    <li><b>Buyer and User Persona</b></li>
+                                    <li><b>Design Thinking</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Identifying corrective measures/improvement</li>
-                                    <li>Case/Exercise: To be provided</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>8) Go-To-Market Strategies</strong></p></div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>GTM 101 Principles </li>
-                                    <li>Branding and its Impact on Product; Translating Brand into Compelling Customer Experiences</li>
-                                    <li>Product Positioning and Brand Strategy</li>
-                                </ul>
-                            </div>
-                            <div className="col-md-6 col-sm-12">
-                                <ul className="pl-3">
-                                    <li>Product Launch Plan </li>
-                                    <li>Marketing & Sales Strategies</li>
+                                    <li><b>Product Vision and Goals</b></li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>9) Pricing and Monetisation </strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>5) Prototyping and MVPs</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Product Costing </li>
-                                    <li>Pricing Models and Strategies</li>
+                                    <li><b>Testing and Validation of MVP</b> </li>
+                                    <li><b>Prototyping</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Creating Growth Loops within the Product</li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong>10) Product Roadmapping and Prioritisation</strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>6) Product Planning & Development and Product Marketing & Sales Strategies</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Product Backlogs</li>
-                                    <li>Release Management</li>
+                                    <li><b>Product Engineering Strategy – Agile/Scrum/Waterfall Methodology</b></li>
+                                    <li><b>Product Roadmap, Requirements (PRDs), User Stories</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
-                                    <li>Change and version control</li>
+                                    <li><b>Testing (A/B) and Validation</b></li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="row mx-0 mb-3">
+                            <div className="col-12"><p className="mb-2"><strong><u>7) Metrics & Analytics </u></strong></p></div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Performance Metrics</b></li>
+                                    <li><b>Determining Success Criteria</b></li>
+                                </ul>
+                            </div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Identifying corrective measures/improvement</b></li>
+                                    <li><b>Case/Exercise: To be provided</b></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="row mx-0 mb-3">
+                            <div className="col-12"><p className="mb-2"><strong><u>8) Go-To-Market Strategies</u></strong></p></div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>GTM 101 Principles </b></li>
+                                    <li><b>Branding and its Impact on Product; Translating Brand into Compelling Customer Experiences</b></li>
+                                    <li><b>Product Positioning and Brand Strategy</b></li>
+                                </ul>
+                            </div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Product Launch Plan</b></li>
+                                    <li><b>Marketing & Sales Strategies</b></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="row mx-0 mb-3">
+                            <div className="col-12"><p className="mb-2"><strong><u>9) Pricing and Monetisation</u> </strong></p></div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Product Costing</b> </li>
+                                    <li><b>Pricing Models and Strategies</b></li>
+                                </ul>
+                            </div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Creating Growth Loops within the Product</b></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="row mx-0 mb-3">
+                            <div className="col-12"><p className="mb-2"><strong><u>10) Product Roadmapping and Prioritisation</u></strong></p></div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Product Backlogs</b></li>
+                                    <li><b>Release Management</b></li>
+                                </ul>
+                            </div>
+                            <div className="col-md-6 col-sm-12">
+                                <ul className="pl-3">
+                                    <li><b>Change and version control</b></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div className="row mx-0 mb-3">
                             <div className="col-12">
-                                <p><strong>11) Product Expansion & Growth Strategies</strong></p>
-                                <p><strong>12) Capstone Project (5 hours)</strong></p>
+                                <p><strong><u>11) Product Expansion & Growth Strategies</u></strong></p>
+                                <p><strong><u>12) Capstone Project (5 hours</u>)</strong></p>
                             </div>
                         </div>
 
@@ -183,34 +182,34 @@ const ProgContent = () =>
                 <div className="content_txt">
                     <div className="row mx-0 mb-3">
                             <div className="col-md-6 col-sm-12">
-                                <strong>Introduction to Branding</strong> <br />
+                                <strong><u>Introduction to Branding</u></strong> <br />
                                 <ul className="pl-3">
-                                    <li>Brands and Brand Management </li>
-                                    <li>Why do Brands Matter? </li>
-                                    <li>What Can be Branded?</li>
+                                     <li><b>Brands and Brand Management </b></li>
+                                    <li><b>Why do Brands Matter?</b> </li>
+                                    <li><b>What Can be Branded?</b></li>
                                 </ul>
                             </div>
                             <div className="col-md-6 col-sm-12">
-                                Exercise and Case: To be provided
+                                <b><u>Exercise and Case: To be provided</u></b>
                                 <ol className="pl-3">
-                                    <li>Measuring Brands</li>
-                                    <li>Managing Brands over Time</li>
-                                    <li>Brand Community</li>
+                                    <li><b>Measuring Brands</b></li>
+                                    <li><b>Managing Brands over Time</b></li>
+                                    <li><b>Brand Community</b></li>
                                 </ol>
                             </div>
                             <div className="col-md-6 col-sm-12">
-                                Exercise and Case: To be discussed
+                                <b><u>Exercise and Case: To be discussed</u></b>
                                 <ol className="pl-3">
-                                    <li>Developing a Brand Strategy </li>
-                                    <li>Brand Loyalty and Brand Positioning</li>
+                                    <li><b>Developing a Brand Strategy </b></li>
+                                    <li><b>Brand Loyalty and Brand Positioning</b></li>
                                 </ol>
                             </div>
                             <div className="col-md-6 col-sm-12">
-                                Exercises to be Provided (IMC: I)
+                               <b><u> Exercises to be Provided (IMC: I)</u></b>
                                 <ol className="pl-3">
-                                    <li>Branding and new media environment</li>
-                                    <li>The new media environment</li>
-                                    <li>Role of multiple communication</li>
+                                    <li><b>Branding and new media environment</b></li>
+                                    <li><b>The new media environment</b></li>
+                                    <li><b>Role of multiple communication</b></li>
                                 </ol>
                             </div>
                     </div>
@@ -218,17 +217,45 @@ const ProgContent = () =>
                                 <div className="col-12"><strong>Branding and Pricing-1</strong></div>
                                 <div className="col-md-6 col-sm-12">
                                     <ul className="pl-3">
-                                        <li>Types and Role of Pricing in Building Types of Brands</li>
+                                        <li><b>Types and Role of Pricing in Building Types of Brands</b></li>
                                     </ul>
                                 </div>
                             </div>
 
-                    <div className="row mx-0 mb-3">
+                            <div className="row mx-0 mb-2">
                         <div className="col-12">
-                            <p> <strong>Branding in the Digital Era: Social Media and Branding <br /> Branding and Internationalisation <br /> Brand Simulation </strong> (5 hours) <br /> <strong> Course Workshop and Evaluation </strong> (5 hours)</p>
+                            <p> <b> <u>Branding in the Digital Era: Social Media and Branding</u> <br/> <u>Branding and Internationalisation</u> <br/> <u> Brand Simulation (5 hours)</u> <br/><u> Course Workshop and Evaluation (5 hours)</u></b></p>
                         </div>
                     </div>
+                    <div className="row mx-0 mb-8">
+                           <p> <div className="col-12"><strong>How You Will Benefit:</strong></div></p>
+                           <div className="col-md-6 col-sm-12"></div>
+                         <p><li>Understand key concepts relating to product management and branding. By pursuing product management from IIM Kashipur, you can gain cross functional knowledge. Understand concepts New Product Development, Go-to-Market Strategies, Brand Building etc.</li>
+                            <li>Understanding and measuring the financial impact of NPD and Branding.</li>
+                            <li>Understanding and implementing strategies like Product Line Analysis, Extensions, Brand Lifecycle Management etc.</li>
+                            <li>Acquire contemporary skillsets like 5i Framework, Design Thinking, Metrics & Analytics etc by pursuing this iim product management certification</li>
+                            <li>Leverage programme knowledge and competencies to navigate volatile market conditions through this product management iim programme.</li>
+                            <li>Leverage branding for product marketing in current market conditions. ECPPBM is among the best product management courses IIM Kashipur has to offer.</li></p>
 
+                    <div className="row mx- -3 mb-8">
+                    <p> <div className="col-12"><strong>Pedagogy:</strong></div></p>
+                         <p>The teaching approach will be highly interactive and leverage technology and deploy diverse pedagogical tools and techniques, including:</p>
+                       <p> <li>Live online instructor-led sessions</li>
+                        <li>Activities (case studies, assignments and assessments)</li>
+                        <li>Practical hands-on learning</li>
+                        <li> Projects</li>
+                        <li> Simulations</li>
+                        <li>Term Papers</li>
+                        <li> Quizzes</li></p>
+                        </div>
+
+                     <div className="row mx- -3 mb-8">
+                   <p> <div className="col-12"><strong>Program Delivery:</strong></div></p>
+                    <li>Sessions will be conducted via a state-of-the-art Interactive Learning (IL) platform and delivered in Direct-to-Device (D2D) mode that can be accessed by learners on their Desktop, Laptop, Tablet, or Smartphone.</li>
+                    <li>Participants will be provided reading materials etc., for each course</li>
+                    <li>Participants may also interact with the concerned faculty through e-mails/chat mode.</li>
+                     </div>
+                </div>
                 </div>
 
             </div>	
