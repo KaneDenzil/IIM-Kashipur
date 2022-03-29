@@ -11,7 +11,7 @@ const ProgContent = () =>
                 <div className="content_txt">
 
                         <div className="row mx-0 mb-3">
-                            <div className="col-12"><p className="mb-2"><strong><u>Introduction to Product Management & Strategy</u></strong></p></div>
+                            <div className="col-12"><p className="mb-2"><strong><u>1) Introduction to Product Management & Strategy</u></strong></p></div>
                             <div className="col-md-6 col-sm-12">
                                 <ul className="pl-3">
                                     <li><b>5i Framework (Ideate, Innovate, Implement, Industrialise, Improve)</b></li>
