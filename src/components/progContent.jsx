@@ -4,7 +4,7 @@ const ProgContent = () =>
 {
     return ( <section className="mb-4 py-4 grey_bg">
 
-            <div className="container-lg">	
+            <div className="container-lg">  
 
                 <h2 className="title text-center mb-4">Programme Content</h2>
                 <div className="content_head">MODULE 1: MANAGING PRODUCT</div>
@@ -258,7 +258,7 @@ const ProgContent = () =>
                 </div>
                 </div>
 
-            </div>	
+            </div>  
 
             </section>)
 
