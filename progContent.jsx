@@ -4,7 +4,7 @@ const ProgContent = () =>
 {
     return ( <section className="mb-4 py-4 grey_bg">
 
-            <div className="container-lg">  
+            <div className="container-lg">	
 
                 <h2 className="title text-center mb-4">Programme Content</h2>
                 <div className="content_head">MODULE 1: MANAGING PRODUCT</div>
@@ -178,7 +178,7 @@ const ProgContent = () =>
 
                 </div>
 
-                <div className="content_head">MODULE 2: BRANDING</div>
+                <div className="content_head">MODULE 2 – BRANDING</div>
                 <div className="content_txt">
                     <div className="row mx-0 mb-3">
                             <div className="col-md-6 col-sm-12">
@@ -214,7 +214,7 @@ const ProgContent = () =>
                             </div>
                     </div>
                             <div className="row mx-0 mb-3">
-                                <div className="col-12"><strong><u>Branding and Pricing-1</u></strong></div>
+                                <div className="col-12"><strong>Branding and Pricing-1</strong></div>
                                 <div className="col-md-6 col-sm-12">
                                     <ul className="pl-3">
                                         <li><b>Types and Role of Pricing in Building Types of Brands</b></li>
@@ -258,7 +258,7 @@ const ProgContent = () =>
                 </div>
                 </div>
 
-            </div>  
+            </div>	
 
             </section>)
 
