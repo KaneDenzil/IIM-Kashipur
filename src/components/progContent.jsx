@@ -178,7 +178,7 @@ const ProgContent = () =>
 
                 </div>
 
-                <div className="content_head">MODULE 2 – BRANDING</div>
+                <div className="content_head">MODULE 2: BRANDING</div>
                 <div className="content_txt">
                     <div className="row mx-0 mb-3">
                             <div className="col-md-6 col-sm-12">
